@@ -1,0 +1,15 @@
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\bin\Debug\net8.0\VariableSwap.exe
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\bin\Debug\net8.0\VariableSwap.deps.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\bin\Debug\net8.0\VariableSwap.runtimeconfig.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\bin\Debug\net8.0\VariableSwap.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\bin\Debug\net8.0\VariableSwap.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.AssemblyInfoInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.AssemblyInfo.cs
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.csproj.CoreCompileInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.sourcelink.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\refint\VariableSwap.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\VariableSwap.genruntimeconfig.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\VariableSwap\obj\Debug\net8.0\ref\VariableSwap.dll

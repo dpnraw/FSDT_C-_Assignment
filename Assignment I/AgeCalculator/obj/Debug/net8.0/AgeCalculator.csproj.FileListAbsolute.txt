@@ -1,0 +1,15 @@
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\bin\Debug\net8.0\AgeCalculator.exe
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\bin\Debug\net8.0\AgeCalculator.deps.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\bin\Debug\net8.0\AgeCalculator.runtimeconfig.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\bin\Debug\net8.0\AgeCalculator.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\bin\Debug\net8.0\AgeCalculator.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.sourcelink.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll
