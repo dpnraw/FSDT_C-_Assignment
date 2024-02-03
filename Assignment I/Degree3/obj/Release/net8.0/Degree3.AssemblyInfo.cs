@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Degree3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4169e1b8b11cb8884915064bbae8350096dd8894")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb7e897219d4e48fddedf52166ac0239e6fd7f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Degree3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Degree3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

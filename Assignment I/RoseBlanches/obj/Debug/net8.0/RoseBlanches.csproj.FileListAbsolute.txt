@@ -1,0 +1,15 @@
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\bin\Debug\net8.0\RoseBlanches.exe
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\bin\Debug\net8.0\RoseBlanches.deps.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\bin\Debug\net8.0\RoseBlanches.runtimeconfig.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\bin\Debug\net8.0\RoseBlanches.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\bin\Debug\net8.0\RoseBlanches.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.AssemblyInfoInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.AssemblyInfo.cs
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.csproj.CoreCompileInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.sourcelink.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\refint\RoseBlanches.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\RoseBlanches.genruntimeconfig.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment I\RoseBlanches\obj\Debug\net8.0\ref\RoseBlanches.dll
