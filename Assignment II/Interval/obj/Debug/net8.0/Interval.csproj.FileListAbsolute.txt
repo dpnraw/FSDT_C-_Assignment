@@ -1,0 +1,15 @@
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\bin\Debug\net8.0\Interval.exe
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\bin\Debug\net8.0\Interval.deps.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\bin\Debug\net8.0\Interval.runtimeconfig.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\bin\Debug\net8.0\Interval.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\bin\Debug\net8.0\Interval.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.AssemblyInfoInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.AssemblyInfo.cs
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.csproj.CoreCompileInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.sourcelink.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\refint\Interval.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\Interval.genruntimeconfig.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\Assignment II\Interval\obj\Debug\net8.0\ref\Interval.dll
