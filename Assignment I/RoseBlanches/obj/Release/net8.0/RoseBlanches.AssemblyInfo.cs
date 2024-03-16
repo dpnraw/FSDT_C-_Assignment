@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoseBlanches")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+107940d28de3abb5de6586187e1c84bda0a0ce4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+355c16726bf3f211ef5b776b318f3f3d22779e50")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoseBlanches")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoseBlanches")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

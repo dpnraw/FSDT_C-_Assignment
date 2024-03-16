@@ -1,0 +1,15 @@
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\bin\Debug\net8.0\assignment_3.exe
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\bin\Debug\net8.0\assignment_3.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.AssemblyInfoInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.AssemblyInfo.cs
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.sourcelink.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\refint\assignment_3.dll
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\bin\Debug\net8.0\assignment_3.deps.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\bin\Debug\net8.0\assignment_3.runtimeconfig.json
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\bin\Debug\net8.0\assignment_3.pdb
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\assignment_3.genruntimeconfig.cache
+C:\Users\dipen\OneDrive - Lambton College\Lambton Semester 2\C# .Net\Assignments and Exercises\Assignment and Submission\assignment_3\obj\Debug\net8.0\ref\assignment_3.dll

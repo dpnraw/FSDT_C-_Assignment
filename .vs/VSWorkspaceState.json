@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assignment II",
-    "\\Assignment II\\Interval"
+    "\\Assignment II\\Interval",
+    "\\assignment_3",
+    "\\assignment_3\\bin\\Debug",
+    "\\assignment_3\\bin\\Debug\\net8.0"
   ],
-  "SelectedNode": "\\Assignment II\\Interval\\Interval.csproj",
+  "SelectedNode": "\\assignment_3\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
